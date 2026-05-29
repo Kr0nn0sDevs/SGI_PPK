@@ -36,11 +36,11 @@ Para compilar y ejecutar usar las siguientes instrucciones
 
 // ============================ WINDOWS CMD/Simbolos del Sistema ==============================
 
-if not exist out mkdir out                        # Crea el directorio si no existe
-dir /b /s src\*.java Main.java > sources.txt      # Genera la lista de archivos a compilar
-javac -d out @sources.txt                         # Compila el código usando la lista
-del sources.txt                                   # Limpia el archivo temporal
-java -cp out Main                                 # Ejecuta el código
+  - if not exist out mkdir out                        # Crea el directorio si no existe
+  - dir /b /s src\*.java Main.java > sources.txt      # Genera la lista de archivos a compilar
+  - javac -d out @sources.txt                         # Compila el código usando la lista
+  - del sources.txt                                   # Limpia el archivo temporal
+  - java -cp out Main                                 # Ejecuta el código
 
 
 
