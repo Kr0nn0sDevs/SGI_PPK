@@ -1,0 +1,7 @@
+[
+  {"id":"U002","nombre":"Vendedor Demo","usuario":"vendedor","password":"vend123","rol":"VENDEDOR","activo":true,"intentosFallidos":0.0},
+  {"id":"U1779724319376636","nombre":"emanuelito","usuario":"Emanuel Alesandro","password":"holaxd","rol":"VENDEDOR","activo":true,"intentosFallidos":0.0},
+  {"id":"U1779724924631188","nombre":"kr0nn0s","usuario":"Kr0nn0s","password":"123","rol":"ADMIN","activo":true,"intentosFallidos":0.0},
+  {"id":"U1779727284296356","nombre":"test","usuario":"test","password":"123","rol":"VENDEDOR","activo":true,"intentosFallidos":0.0},
+  {"id":"U001","nombre":"Administrador","usuario":"admin","password":"admin123","rol":"ADMIN","activo":true,"intentosFallidos":0}
+]

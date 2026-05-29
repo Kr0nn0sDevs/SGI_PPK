@@ -1,0 +1,9 @@
+[
+  {"id":"P1779726085213413","nombre":"Pepito","marca":"Pepe","descripcion":"Tenis mamalones","codigoBarras":"1651651651651","categoria":"Tenis","precioVenta":5000.0,"stockMinimo":5.0,"activo":true,"variantes":[]},
+  {"id":"P1779727398031788","nombre":"Pepe2","marca":"Pepe","descripcion":"Playera","codigoBarras":"122323","categoria":"Playera","precioVenta":3000.0,"stockMinimo":5.0,"activo":true,"variantes":[]},
+  {"id":"P1779724698565420","nombre":"Ado's","marca":"Adidas","descripcion":"Tenis Adidas","codigoBarras":"12345","categoria":"Tenis","precioVenta":3000.0,"stockMinimo":3.0,"activo":true,"variantes":[{"talla":"8","color":"Azul/Negro","stock":0.0}]},
+  {"id":"P177972539899162","nombre":"Mococo T-shirt","marca":"Hololive","descripcion":"PLayera de Mococo Abysgard","codigoBarras":"12347","categoria":"Playera","precioVenta":900.0,"stockMinimo":3.0,"activo":true,"variantes":[{"talla":"9","color":"Azul/Negro","stock":2.0}]},
+  {"id":"P1779733491559724","nombre":"Camisa","marca":"Vermonti","descripcion":"Camisa Gris","codigoBarras":"1234567","categoria":"Camisa","precioVenta":800.0,"stockMinimo":5.0,"activo":true,"variantes":[]},
+  {"id":"P1779723990762345","nombre":"Calzado nike","marca":"Cklass","descripcion":"Calzadito","codigoBarras":"1234","categoria":"General","precioVenta":200.0,"stockMinimo":5.0,"activo":false,"variantes":[{"talla":"23","color":"blue","stock":0.0},{"talla":"23","color":"azul","stock":1.0}]},
+  {"id":"P1779725326308336","nombre":"ADO","marca":"Adidas","descripcion":"Playera del Mundial","codigoBarras":"12346","categoria":"Playera","precioVenta":1800.0,"stockMinimo":10,"activo":true,"variantes":[{"talla":"G","color":"Azul","stock":5}]}
+]

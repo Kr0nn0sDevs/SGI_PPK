@@ -1,0 +1,4 @@
+[
+  {"id":"E1779724205074614","nombre":"cristian","curp":"UIME0707","puesto":"Cajero","correo":"emanuel@gmail.com","fechaIngreso":"","sueldoBase":100.0,"porcentajeComision":20.0,"activo":true},
+  {"id":"E1779725588480822","nombre":"Rodrigo","curp":"TestDeCurp1234","puesto":"Atencion al cliente","correo":"test@correo.com","fechaIngreso":"","sueldoBase":2500.0,"porcentajeComision":5.0,"activo":true}
+]

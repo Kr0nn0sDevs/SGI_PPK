@@ -1,0 +1,8 @@
+[
+  {"id":"L1779724082046824","idProducto":"P1779723990762345","talla":"23","color":"blue","fechaEntrada":"2026-05-25","cantidadInicial":1.0,"cantidadDisponible":0.0,"costoUnitario":200.0},
+  {"id":"L1779727350783450","idProducto":"P1779723990762345","talla":"23","color":"azul","fechaEntrada":"2026-05-25","cantidadInicial":2.0,"cantidadDisponible":1.0,"costoUnitario":2000.0},
+  {"id":"L1779727859375199","idProducto":"P1779724698565420","talla":"8","color":"Azul/Negro","fechaEntrada":"2026-05-25","cantidadInicial":1.0,"cantidadDisponible":0.0,"costoUnitario":3000.0},
+  {"id":"L1779727906322759","idProducto":"P177972539899162","talla":"9","color":"Azul/Negro","fechaEntrada":"2026-05-25","cantidadInicial":3.0,"cantidadDisponible":2.0,"costoUnitario":3000.0},
+  {"id":"L1779733533259735","idProducto":"P1779725326308336","talla":"G","color":"Azul","fechaEntrada":"2026-05-25","cantidadInicial":4.0,"cantidadDisponible":4.0,"costoUnitario":800.0},
+  {"id":"L177972788128318","idProducto":"P1779725326308336","talla":"G","color":"Azul","fechaEntrada":"2026-05-25","cantidadInicial":3,"cantidadDisponible":1,"costoUnitario":1800.0}
+]
