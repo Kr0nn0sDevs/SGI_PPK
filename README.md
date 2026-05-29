@@ -41,3 +41,15 @@ dir /b /s src\*.java Main.java > sources.txt      # Genera la lista de archivos 
 javac -d out @sources.txt                         # Compila el código usando la lista
 del sources.txt                                   # Limpia el archivo temporal
 java -cp out Main                                 # Ejecuta el código
+
+
+
+
+Para probar el proyecto los usuarios son los siguientes
+Administrador:
+  - Usuario: admin
+  - Contraseña: admin123
+
+Vendedor:
+  - Usuario: vendedor
+  -  Contraseña: vend123
