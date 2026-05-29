@@ -20,14 +20,14 @@ Para compilar y ejecutar usar las siguientes instrucciones
 
 // ============================= MacOS ==============================
 
-  - mkdir -p out                                      # Crea el directorio de salida
+  - mkdir -p out                                      # Crea el directorio de compilacion/salida
   - javac -d out $(find . -name "*.java")             # Compila el código (busca desde la raíz)
   - java -cp out Main                                 # Ejecuta el código
 
 
 // ============================ WINDOWS PowerShell ==============================
 
-  - mkdir -Force out                                  # Crea el directorio de salida
+  - mkdir -Force out                                  # Crea el directorio de compilacion/salida
   - javac -d out (dir -Recurse src\*.java, Main.java) # Compila el código de forma recursiva
   - java -cp out Main                                 # Ejecuta el código
 
@@ -36,7 +36,7 @@ Para compilar y ejecutar usar las siguientes instrucciones
 
 // ============================ WINDOWS CMD/Simbolos del Sistema ==============================
 
-  - if not exist out mkdir out                        # Crea el directorio si no existe
+  - if not exist out mkdir out                        # Crea el directorio si no existe (compilacion/salida)
   - dir /b /s src\*.java Main.java > sources.txt      # Genera la lista de archivos a compilar
   - javac -d out @sources.txt                         # Compila el código usando la lista
   - del sources.txt                                   # Limpia el archivo temporal
