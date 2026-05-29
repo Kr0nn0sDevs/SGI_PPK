@@ -13,23 +13,23 @@ EN futuras actualizaciones se tienen previstos los iguientes cambios:
 Para compilar y ejecutar usar las siguientes instrucciones
 // ============================= LINUX ==============================
 
-mkdir -p out                                        // Crea el directorio de salida
-javac -d out $(find src -name "*.java") Main.java    // Compila el codigo
-java -cp out Main                                   // Ejecuta el codigo
+  - mkdir -p out                                        // Crea el directorio de salida
+  - javac -d out $(find src -name "*.java") Main.java    // Compila el codigo
+  - java -cp out Main                                   // Ejecuta el codigo
 
 
 // ============================= MacOS ==============================
 
-mkdir -p out                                      # Crea el directorio de salida
-javac -d out $(find . -name "*.java")             # Compila el código (busca desde la raíz)
-java -cp out Main                                 # Ejecuta el código
+  - mkdir -p out                                      # Crea el directorio de salida
+  - javac -d out $(find . -name "*.java")             # Compila el código (busca desde la raíz)
+  - java -cp out Main                                 # Ejecuta el código
 
 
 // ============================ WINDOWS PowerShell ==============================
 
-mkdir -Force out                                  # Crea el directorio de salida
-javac -d out (dir -Recurse src\*.java, Main.java) # Compila el código de forma recursiva
-java -cp out Main                                 # Ejecuta el código
+  - mkdir -Force out                                  # Crea el directorio de salida
+  - javac -d out (dir -Recurse src\*.java, Main.java) # Compila el código de forma recursiva
+  - java -cp out Main                                 # Ejecuta el código
 
 
 
