@@ -1,4 +1,4 @@
-# SGI_PPK
+# SGI_Java_Kr0nn0s
 Repositorio del proyecto Sistema Gestor de Inventarios (SGI) desarrollado en Java
 En este proyecto se desarrolla un sistema gestor de inventarios basico de momento en Java con la UI de Java Swing, persistencia de datos con JSON y bases de POO
 
